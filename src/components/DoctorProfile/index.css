@@ -1,0 +1,27 @@
+.heading{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: "Roboto";
+    color:rgb(13, 13, 15);
+}
+.specify{
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+    color:rgb(13, 13, 15);
+}
+.doctor-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://images.unsplash.com/photo-1576765607923-4fef2e6e6f7b?auto=format&fit=crop&w=1500&q=80');
+     background-size: cover;
+}
+.status{
+    font-size: 16px;
+    font-family: "Roboto";
+    color:black;
+
+}
